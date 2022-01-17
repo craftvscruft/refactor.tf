@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "All Refactors"
+date:   2021-08-25 22:48:59 -0500
+categories: refactor 
+---
+
+* [Rename resource]({% post_url 2021-08-25-rename-resource %})
+* Rename resource array
+* Move resource into module
+* Move resource out of module
+* Move resource to different config
+* Rename variable
+* Rename local
+* Rename data
+* Organize module
+* Convert remote state to data
+* Extract local
+* Extract variable
+* Extract module
+* Inline variable
+* Inline local
+* Inline module
+* Split module
+* Verify empty plan
+* Import unmanaged resource
+* Convert constant to data
+* Style conventions
