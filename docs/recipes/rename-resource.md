@@ -1,16 +1,25 @@
 ---
-layout: post
+layout: default
 title:  "Rename Resource"
-date:   2021-08-25 22:48:59 -0500
-categories: refactor rename 
+parent: Refactoring Patterns
+date:   2022-01-16 22:48:59 -0500
+categories: refactor rename
 ---
-
+# Rename Resource
 ## Procedure
 
 1. Rename block.
 2. Rename all references within the module.
 3. Move state from old name to new.
 4. Verify empty plan.
+
+
+## Automation
+
+See tfrefactor.
+```
+tfrefactor rename my_resource.old my_resource.new
+```
 
 ## Source code
 Before

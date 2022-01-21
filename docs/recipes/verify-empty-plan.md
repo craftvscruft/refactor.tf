@@ -1,14 +1,17 @@
 ---
-layout: post
-title:  "Verify Empty Terraform Plan"
+layout: default
+title:  "Empty Plan"
+parent: Refactoring Patterns
 date:   2021-08-25 22:48:59 -0500
 categories: tools testing
 ---
+# Empty Plan
 
 ## Built in
 * terraform plan
 
-## Showing changes when nothing has changed
+## Troubleshooting
+### Showing changes when nothing has changed
 "config refers to values not yet known"
 
 ``` terraform

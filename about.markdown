@@ -16,5 +16,5 @@ Source code for this site on GitHub:
 
 Source code for the automated refactoring tool __tfrefactor__ on GitHub:
 [craftvscruft](https://github.com/craftvscruft) /
-[tfrefactor](https://github.com/jekyll/tfrefactor)
+[tfrefactor](https://github.com/craftvscruft/tfrefactor)
 
