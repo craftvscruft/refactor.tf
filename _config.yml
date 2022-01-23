@@ -24,7 +24,7 @@ description: >-
   Documenting patterns for refactoring terraform.
 # logo: "/assets/images/just-the-docs.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "refactor.tf" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://refactor.tf" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lambdapocalypse
 github_username:  craftvscruft
 youtube_channel: UC4nEbAo5xFsOZDk2v0RIGHA
