@@ -8,7 +8,7 @@ categories: tools
 # Tools For Refactoring Terraform
 ## Grep
 
-Usually in the form of [git grep](https://git-scm.com/book/en/v2/Git-Tools-Searching). Useful for scanning a codebase for references when considering a rename or other change. In the case of cross-repo dependencies, consider an org-wide [GitHub search](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code#search-within-a-users-or-organizations-repositories) or [equivelent](https://support.atlassian.com/bitbucket-cloud/docs/search-in-bitbucket-cloud/).
+Usually in the form of [git grep](https://git-scm.com/book/en/v2/Git-Tools-Searching) or an IDE search function. Useful for scanning a codebase for references when considering a rename or other change. In the case of cross-repo dependencies, consider an org-wide [GitHub search](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code#search-within-a-users-or-organizations-repositories) or [equivalent](https://support.atlassian.com/bitbucket-cloud/docs/search-in-bitbucket-cloud/).
 
 ## Built in
 * terraform plan - Confirm a change is non-disruptive with an [empty plan]({% link docs/recipes/verify-empty-plan.md %})
